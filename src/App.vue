@@ -103,7 +103,7 @@ header button {
 
 .card {
   width: 225px;
-  height: 225px;
+  min-height: 225px;
   background-color: rgb(237, 182, 44);
   padding: 10px;
   border-radius: 15px;
