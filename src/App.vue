@@ -11,7 +11,7 @@
         ></textarea>
         <p v-if="errorMessage">{{ errorMessage }}</p>
         <button @click="addNote">Add Note</button>
-        <button class="close" @click="showModal = false">Close</button>
+        <button class="close" @click="showModal = false">Closea</button>
       </div>
     </div>
     <div class="container">
